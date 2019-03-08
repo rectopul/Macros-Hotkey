@@ -23,7 +23,7 @@
 		sleep 1000
 
 		if (countring == 14) {
-	     	ControlSend, ahk_parent, {F10}, Tibia
+	     	ControlSend, ahk_parent, {F4}, Tibia
 	     	countring = 0
 	   	}
 
