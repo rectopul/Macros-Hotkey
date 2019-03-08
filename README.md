@@ -15,3 +15,5 @@ Dentre eles temos as seguintes funçoes
   <li>Heal</li>
   <li>Push Itens</li>
 </ul>
+
+Boa sorte e um bom uso a todos
