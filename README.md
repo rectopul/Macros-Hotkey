@@ -14,6 +14,7 @@ Dentre eles temos as seguintes funçoes
   <li>Trade Send</li>
   <li>Heal</li>
   <li>Push Itens</li>
+  <li>Runar Arrow</li>
 </ul>
 
 Boa sorte e um bom uso a todos
