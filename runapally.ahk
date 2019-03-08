@@ -9,11 +9,11 @@
 		sleep 1001
 		ControlSend, ahk_parent, {F2}, Tibia
 		sleep 1001
-		ControlSend, ahk_parent, {F2}, Tibia
+		ControlSend, ahk_parent, {F3}, Tibia
 		sleep 1001
 
 		if (countring > 7) {
-	     	ControlSend, ahk_parent, {F3}, Tibia
+	     	ControlSend, ahk_parent, {F2}, Tibia
 	     	sleep 1001
 	   	}Else{
 	   		sleep 1001
