@@ -29,7 +29,7 @@
 
 	   	; MsgBox % "Loop esta em  " . countring . "." 
 
-	   	sleep 537000
+	   	sleep 538000
 
 	}
 	
