@@ -4,7 +4,10 @@
 
 	while (countring <=  100) {
 		ControlSend, ahk_parent, {F1}, ahk_exe client.exe
-		sleep 1001
+		sleep 500
+
+		ControlSend, ahk_parent, {F3}, ahk_exe client.exe
+		sleep 900
 
 		Loop, 10 {
 			ControlSend, ahk_parent, {F2}, ahk_exe client.exe
