@@ -1,4 +1,4 @@
-^+0::	
+^+F11::	
 	
 	countring := 0
 	countstart := 0
