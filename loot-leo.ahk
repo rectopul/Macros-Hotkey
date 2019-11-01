@@ -1,0 +1,3 @@
+NumpadIns::
+	Click WheelLeft
+return

@@ -1,0 +1,15 @@
+14:15 May Colb [309]: 
+    Session data: {
+        From 2019-05-22, 13:12:17 to 2019-05-22, 14:15:38 
+        Session: 01:03h XP 
+        Gain: 3,527,578 
+        XP/h: 1,940,858 
+        Loot: 1,604,647 
+        Supplies: 103,471 
+        Balance: 1,501,176 
+        Damage: 1,586,062 
+        Damage/h: 1,493,372 
+        Healing: 20,636 
+        Healing/h: 18,655 
+        Killed Monsters
+    }
